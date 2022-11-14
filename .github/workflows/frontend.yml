@@ -33,5 +33,5 @@ jobs:
           file: ./dockerfile.v1
           push: true
           tags: |
-            spg51/lab:ghfront1
+            michalgrabowski98/lab6:ghfront1
           
